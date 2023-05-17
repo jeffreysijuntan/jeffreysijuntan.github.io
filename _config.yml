@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sijun Tan # the website title (if blank, full name will be used instead)
+title: Sijun Tan (谭嗣俊) # the website title (if blank, full name will be used instead)
 first_name: Sijun
 middle_name: 
 last_name: Tan
-email: st8eu@virginia.edu
+email: sijuntan@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sijun's homepage
 footer_text: >
@@ -69,7 +69,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  st8eu at virginia dot edu
+  sijuntan at berkeley dot edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID

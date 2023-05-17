@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-5-18 15:59:00-0400
+date: 2023-5-22 15:59:00-0400
 inline: true
 ---
 
-I joined FAIR NY working on building and scaling CrypTen with GPU. 
+Our paper *MPCAuth: Multi-factor Authentication for Distributed-trust Systems* is accepted to appear at IEEE S&P 2023.
