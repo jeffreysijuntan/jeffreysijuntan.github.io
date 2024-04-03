@@ -18,7 +18,9 @@
       journal={IEEE Symposium on Security and Privacy (Oakland), },
       selected={true},
       abbr={IEEE S&P},
-      html = {https://eprint.iacr.org/2021/342}
+      html = {https://eprint.iacr.org/2021/342},
+      abstract = {Systems with distributed trust have attracted growing research attention and seen increasing industry adoptions. In these systems, critical secrets are distributed across N servers, and computations are performed privately using secure multi-party computation (SMPC). Authentication for these distributed-trust systems faces two challenges. The first challenge is ease-of-use. Namely, how can an authentication protocol maintain its user experience without sacrificing security? To avoid a central point of attack, a client needs to authenticate to each server separately. However, this would require the client to authenticate N times for each authentication factor, which greatly hampers usability. The second challenge is privacy, as the client’s sensitive profiles are now exposed to all N servers under different trust domains, which creates N times the attack surface for the profile data. To address both challenges, we present MPCAuth, a multi-factor authentication system for distributed-trust applications. Our system enables a client to authenticate to N servers independently with the work of only one authentication. In addition, our system is profile hiding, meaning that the client’s authentication profiles such as her email username, phone number, passwords, and biometric features are not revealed unless all servers are compromised. We propose secure and practical protocols for an array of widely adopted authentication factors, including email passcodes, SMS messages, U2F, security questions/passwords, and biometrics. Our system finds practical applications in the space of cryptocurrency custody and collaborative machine learning, and benefits future adoptions of distributed-trust applications.
+    }
 }
 
 
@@ -47,9 +49,10 @@
   journal={IEEE Symposium on Security and Privacy (Oakland), },
   selected={true},
   abbr={IEEE S&P},
-  html={https://arxiv.org/abs/2104.10949}
+  html={https://arxiv.org/abs/2104.10949},
+  code={https://github.com/jeffreysijuntan/CryptGPU},
+  abstract={We introduce CryptGPU, a system for privacy-preserving machine learning that implements all operations on the GPU (graphics processing unit). Just as GPUs played a pivotal role in the success of modern deep learning, they are also essential for realizing scalable privacy-preserving deep learning. In this work, we start by introducing a new interface to losslessly embed cryptographic operations over secret-shared values (in a discrete domain) into floating-point operations that can be processed by highly-optimized CUDA kernels for linear algebra. We then identify a sequence of "GPU-friendly" cryptographic protocols to enable privacy-preserving evaluation of both linear and non-linear operations on the GPU. Our microbenchmarks indicate that our private GPU-based convolution protocol is over 150× faster than the analogous CPU-based protocol; for non-linear operations like the ReLU activation function, our GPU-based protocol is around 10× faster than its CPU analog. With CryptGPU, we support private inference and training on convolutional neural networks with over 60 million parameters as well as handle large datasets like ImageNet. Compared to the previous state-of-the-art, our protocols achieve a 2× to 8× improvement in private inference for large networks and datasets. For private training, we achieve a 6× to 36× improvement over prior state-of-the-art. Our work not only showcases the viability of performing secure multiparty computation (MPC) entirely on the GPU to newly enable fast privacy-preserving machine learning, but also highlights the importance of designing new MPC primitives that can take full advantage of the GPU’s computing capabilities.}
 }
-
 
 @article{calibration,
   title={Least Square Calibration for Peer Reviews},
