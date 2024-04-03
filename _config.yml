@@ -51,8 +51,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: jeffreysijuntan # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: jeffrey-sijun-tan-435952156 # your LinkedIn user name
+twitter_username: JeffreySijunTan # your Twitter handle
+linkedin_username: sijun-tan-435952156 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -66,7 +66,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
 contact_note: >
   sijuntan at berkeley dot edu
