@@ -18,5 +18,6 @@ I am a second-year CS PhD student at UC Berkeley, advised by [Raluca Ada Popa](h
 
 Previously, I graduated from University of Virginia with a Bachelor's degree in Computer Science and Mathematics, where I was advised by [David Wu](https://www.cs.utexas.edu/~dwu4/) and [Yuan Tian](https://www.ytian.info/). I also worked with Professors [Haifeng Xu](https://www.haifeng-xu.com/) and [Xiaohui Bei](https://personal.ntu.edu.sg/xhbei/). I interned at [Facebook AI Research](https://ai.meta.com/) (FAIR) and worked at [Ant Group](https://www.antgroup.com/en) as a senior algorithm engineer.
 
+My work spans **machine learning**, **computer security**, and **applied cryptography**. Currently, I am working on building secure and decentralized systems for **Generative AI**. 
 
-My current work spans **computer security**, **machine learning**, and **applied cryptography**. If you are interested in research collaboration, please shoot me an [email](mailto:sijuntan@berkeley.edu).
+If you are interested in research collaboration, please shoot me an [email](mailto:sijuntan@berkeley.edu).
